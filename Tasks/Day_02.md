@@ -11,7 +11,7 @@
    - Developers must think in layers and systems because writing raw code or syntax is now AI's job.
 If a developer wants a task to be completed correctly, they must first provide clear  specifications for the AI to follow.
 If the specifications are not clear, AI may not produce correct functions, and the system may not work.  
-*📁Part B — Multiple Choice Question)*  
+*📁Part B — (Multiple Choice Question)*  
 1 What is the main purpose of Spec-Driven Development?    
  A. Make coding faster  
  B. Clear requirements before coding begins ✅   
@@ -35,4 +35,8 @@ D. Make coding optional
 5  What defines an M-Shaped Developer?  
 A. Knows little about everything  
 B. Deep in only one field  
-C. Deep skills in multiple related domain ✅  
+C. Deep skills in multiple related domain ✅
+*📁Part C — (Gemini cli task)*
+
+<img width="1350" height="505" alt="Screenshot 2025-11-19 085557" src="https://github.com/user-attachments/assets/9945c9d8-84b4-4918-9752-0ff9bb06e213" />
+
